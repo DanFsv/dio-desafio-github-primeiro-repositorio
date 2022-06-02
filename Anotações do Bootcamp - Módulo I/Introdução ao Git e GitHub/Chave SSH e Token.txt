@@ -1,0 +1,107 @@
+CHAVE SSH E TOKENS
+
+
+O QUE SÃO SSH E TOKENS E PORQUE ISSO É RELEVANTE?
+
+
+
+Sempre que enviamos um arquivo para o Github, precisamos inserir uma autenticação. No caso, o nome de usuário e senha.
+
+Porém isso se tornou obsoleto... 
+
+Agora, o GitHub exige também outros processos para autenticação do envio de arquivos para a plataforma. 
+
+
+
+
+
+CHAVE SSH
+
+Uma forma de estabelecer uma conexão segura entre duas máquinas através de duas chaves, uma chave pública e privada. No momento que pegamos a chave pública e colocamos no Github, ele reconhece a nossa máquina e assinatura da nossa máquina. E nesse caso, vamos ser capazes de enviar código sem colocar a senha. 
+
+**Obs: Na Sessão da página do github do nosso perfil "SSH and GPG keys" encontramos onde a nossa chave SSH está memorada. 
+
+
+
+
+
+
+E AGORA COMO PODEMOS GERAR A NOSSA CHAVE SSH?
+
+
+No Linux e no Window o passo a passo é o mesmo...
+
+
+Vamos conhecer os comandos no CLI do Git Bash para gerar as duas chaves....
+
+
+Geramos as duas chaves através do:
+
+1 - ssh-keygen -t ed25519 -c danielfsv3@gmail.com
+
+2 - Depois tivemos que colocar uma senha e as duas chaves foram salvas
+
+3 - Para encontrarmos as nossas chaves utilizamos o cd /c/Users/danie/.ssh/
+
+4 - E então encontramos a chave pública e a chave privada
+
+Obs: Alguns comandos adicionais (Listamos os arquivos de uma pasta através do "ls" e conseguimos encontrar o endereço da pasta que estamos através do comando "pwd")
+
+5 - Agora criamos o agent para funcionar a chave da maneira correta, utilizando o: eval $(ssh-agent -s)
+
+6 - Validando o agente utilizamos o ssh-add id_ed25519 e colocamos a senha que inserimos antes.
+
+
+
+
+@@ Para clonar o repositório com a chave SSH, utilizamos o caminho SSH do repositório. 
+
+OBS IMPORTANTE: Ou seja, para clonar um repositório a partir de agora utilizaremos esse caminho SSH que conseguimos copiar do repositório desejado e responderemos "yes" para a pergunta que o Git perguntar "Are you sure you want to continue connecting?"
+
+[Exemplo git clone caminho do SSH]
+
+E se digitar ls, já estaremos no repositório...
+
+
+
+No Linux o processo é bem semelhante! 
+
+
+
+
+
+TOKEN DE ACESSO PESSOAL (outra forma de autenticação segura)
+
+Ele se assemelha com a autenticação de nickname e senha
+
+
+1 - Indo em Developer Settings
+
+2 - clicando em Personal Access tokens
+
+3 - Generate new token
+
+4 - Colocamos uma data de expiração do token
+
+5 - Marcamos a opção repo 
+
+6 - E clicamos em "generate token"
+
+7 - Copiamos o token e guardamos em algum lugar seguro do computador (um bloco de notas por exemplo)
+
+
+@@Utilizamos o git clone com o caminho HTTP
+
+o Git pedirá uma autenticação e é só colar o token criado.
+
+
+
+
+
+
+
+
+
+
+
+

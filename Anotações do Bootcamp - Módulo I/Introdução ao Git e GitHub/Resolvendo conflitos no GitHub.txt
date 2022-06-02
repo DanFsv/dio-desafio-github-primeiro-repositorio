@@ -1,0 +1,74 @@
+# Como acontecem os conflitos no GitHub e como resolvemos. 
+
+
+
+### Vamos pensar na situação hipotética em que editamos um arquivo simultaneamente com outra pessoa.
+
+- Ambos irão abrir o programa para realizar uma edição. 
+- Cada um fará uma edição que minimamente se diferenciará da outra por pequenos detalhes, se for o caso.
+- E mesmo que editemos os arquivos na mesma linha, um código será o seu na sua máquina, e o código na máquina da outra pessoa será considerado um código diferente.
+
+
+
+- Vamos dizer então que o seu colega de projeto já enviou o programa para o repositório remoto e você continuou trabalhando no projeto na sua máquina. **(O seu código se tornará uma versão desatualizada).**
+
+
+
+
+
+### Nesse momento acaba ocorrendo o conflito de merge.
+
+
+
+- O GitHub deixará que você abra o arquivo em que já foi devolvido para o repositório remoto do GitHub para que você resolva manualmente o problema de conflito empurre novamente o código.
+
+
+
+## Digamos que empurramos um conteúdo que já tem alterações no repositório. Nesse caso deveremos puxar o arquivo para assim atribuir modificações para depois empurrar em seguida. 
+
+
+
+- Utilizaremos o comando **"git pull origin master"**
+- E nesse caso acontecerá um conflito de Merge, pois fizemos uma alteração na mesma linha.
+- Nesse caso ele mostrará as alterações através de uma envelopagem ""(<<<<<HEAD" que significa que todas as alterações feitas abaixo foram realizadas ).
+
+
+
+- E agora após alterar tudo que o git demonstrou pra gente que estava constando como alterações feitas por outras pessoas, commitamos normalmente com o comando já demonstrado anteriormente: **"git commit -m "resolve conflitos""**
+- E depois enviamos a versão atualizada do arquivo com o **"git push origin master"**
+
+
+
+
+
+## Agora como clonar arquivos de outros repositórios na minha máquina?
+
+
+
+- Utilizando o comando ***"git clone https://link..."***
+- Simples assim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
