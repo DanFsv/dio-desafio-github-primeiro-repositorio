@@ -1,0 +1,17 @@
+INSTALANDO O GIT NA MÁQUINA
+
+1 - Entrar no site do Git 
+
+2 - Download for windows
+
+3 - Escolher onde será a instalação e verificar se os dois checkbox Git Bash here e Git GUI Here estão marcadas no painel de instalação
+
+4 - Escolher o diretor padrão 
+
+5 - Escolher a branch main, maracando a opção Override the default branch...
+
+6 - A grande alteração é a questão do Git Credential Manager. Utilizaremos o Git Credential Core ao invés do Git Credential Manager. 
+
+Alterações na versão 2.30 do Git
+
+

@@ -1,0 +1,445 @@
+
+Frase que define um Bootcamp
+
+"Os desafios de código em um bootcamp ajudam a desenvolver o seu pensamento computacional e raciocínio lógico, ampliando a sua senioridade no que diz respeito a soluções de problemas na programação."
+
+
+
+
+OBJETIVO DA AULA:
+
+Introduzir o pensamento computacional de modo a entender a sua importância e como utilizá-lo ao seu favor para solucionar problemas. 
+
+
+
+
+
+INTRODUÇÃO DO PENSAMENTO COMPUTACIONAL:
+
+Envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implmentados no computador. 
+
+1 - O pensamento computacional é um pensamento sistemático e eficiente através da formulação e resolução de problemas
+
+2 - Um pensamento que una o pensamento humano a máquina
+
+3 -  Pensamento computacional é uma habilidade generalista, que pode ser utilizado em diversas outras habilidades (como na matemática ou na escrita)
+
+
+
+
+
+OS 4 PILARES DO PENSAMENTO COMPUTACIONAL
+
+
+1 - Decomposição: Dividir o problema de modo a resolver problemas menores
+
+
+2 -  Reconhecimento de padrões: Identificar similaridades e tendências dentro de um contexto ou em constextos distintos. Existe também o Padrão comportamental, que são padrões específicos relacionados aos eventos/acontecimentos que podem acarretar em reações. 
+
+
+3 -  Abstração: Extrapolar o conceito de um problema particular e específico para um pensamento mais generalista. Exemplo: Fórmulas matemáticas são formas de transformar problemas particualares em soluções generalistas. 
+
+
+4 -  Design de algoritmos: Nesse pilar, definimos o passo a passo da resolução do problema. Input -> Operador -> Output.  
+
+
+OVERVIEW
+
+Esse processo são processos contínuos
+
+## Definir uma solução
+
+## Testar a solução
+
+## Aperfeiçoamento da solução encontrada
+
+
+
+
+
+
+COPETÊNCIAS RELACIONADAS AO PENSAMENTO COMPUTACIONAL
+
+1 - Pensamento sistemático
+
+2 - Colaboração dentro da equipe
+
+3 - Criatividade e design
+
+4 - Facilitador
+
+
+
+
+
+
+HABILIDADES COPMPLEMENTARES (RACIOCÍNIO LÓGICO E APERFEIÇOAMENTO)
+
+
+O que é raciocínio lógico: É uma foma de racicìnio estruturado para conseguir solucionar problemas através de seu destrinchamento.
+
+
+
+
+
+
+RACIOCÌNIO LÓGICO
+
+
+Indução: Vem a partir de um fenômeno observado, e apartir desse fenômeno é possível determinar leis para esse fenômeno.
+
+Dedução: A partir de leis e teorias é deduzido previsões e explicações para um fenômeno.
+
+Abdução: A partir de uma conclusão é possível definir uma premissa. 
+
+
+
+
+
+SÍNTESE E ANÁLISA
+
+Síntese(Abdução e Indução)
+
+Análise(Dedução)
+
+
+
+
+
+
+
+Aperfeiçoamento 
+
+
+1 - Econtrar solução eficiente (Melhorar uso de recursos)
+
+2 - Otimizar processos (Melhorar uso de recursos)
+
+3 - Simplificar linhas de código (Melhorar códigos e algoritmos)
+
+4 - Funções bem definidas (Melhorar códigos e algoritmos)
+
+
+
+
+
+
+
+PILAR DE DECOMPOSIÇÃO:
+
+
+"If you cant solve a problem, then there is a easier problem that you can can solve: find it"
+
+George Polya
+
+
+Dado um problema complexo, é necessário dividí-lo em problemas menores.
+
+
+
+
+
+ETAPAS DA DECOMPOSIÇÃO:
+
+
+Processo de quebrar para determinar partes menores e gerenciáveis. (Análise)
+
+Obs: Estudar e eplorar, realizar um exame detalhado do que resolver. A partir você encontra essas partes menores e analisa.
+
+
+Combinar os elementos recompondo o problema original (Síntese)
+
+Obs: Reunir os elementos distintos, os reconstruindo e os funde dando sentido a sua reconstrução. 
+
+
+
+
+
+
+ORDEM DE EXECUÇÃO DAS TAREFAS 
+
+
+1 - Sequencial: Para resolver esse problema, é necessário resolver o problema anterior
+
+2 - Paralelo: Tarefas podem ser executadas concomitantemente.
+
+
+
+
+
+
+EXEMPLO: CRIAR UM APP
+
+
+1 - Finalidade 
+
+2 - Interface
+                         (Definição de componentes etapas)
+3 - Funcionalidades
+
+4 - Pré-requisitos
+
+
+Obs: Segmentamos o problema original e depois resolvemos o problema maior. 
+
+
+
+
+
+
+PILAR DE RECONHECIMENTO DE PADRÕES
+
+
+Modelo de referência que determina uma estrutura de invariância e definir uma repetição.
+
+Conseguimos detectar padrões através do contexto de similaridades e diferenças.
+
+
+
+
+
+
+
+SERES VIVOS X PADRÕES
+
+Nós, seres vivos, já assimilamos padrões desde quando somos crianças, utilizando elementos como similaridade e diferenças.
+
+
+Determinamos padrões para generalizar para resolver problemas diferentes. Por exemplo, preciso encontrar caminho entre dois pontos, que existem diversas rotas mas o problema é o mesmo. A partir disso, é possível criar um algoritmo para encontrar o caminho entre A e B para vários cenários diferentes. 
+
+
+O ser humano consegue diferenciar padrões a partir do grau de simlaridade. A partir de objetos desconhecidos conseguimos generalizarmos em grupos conhecidos. 
+
+
+
+
+
+
+PADRÕES X MÁQUINA
+
+
+Utilizamos a representação de atributos para dessa forma gerar um aprendizado do conceito associado ao objeto. A partir dessa forma, a máquina armazena dados para reconhecer esses objetos após o aprendizado. Após isso, geramos a regras de decisão.
+
+
+
+
+
+EM RESUMO (RECONHECIMENTO DE PADRÕES)
+
+
+1 - Extrairmos caracterísitcas
+
+2 - Classificamos esses dados
+
+
+
+
+
+
+
+APLICAÇÕES DO RECONHECIMENTO DE PADRÕES
+
+
+1 - Classificação de dados
+
+2 - Reconhecimento de imagem
+
+3 - Reconhecimento de fala
+
+4 - Análise de cenas
+
+5-  Classificação de documentos
+
+
+
+
+
+
+PILAR DE ABSTRAÇÃO:
+
+
+Generalizão/Abstração.
+
+
+Abstrair: Observar, um ou mais elementos, avaliando caraterísticas e propriedades em separado. 
+
+Abstração: Processo intelectual de isolamento de um objeto da realidade.
+
+Generalizar: Tornar-se geral, mais amplo, extensão.
+
+
+Obs: Nesse processo precisamos observar elementos, extrapolá-los para um mundo abstrato da maneira que o tornamos geral. 
+
+
+
+
+
+
+COMO CLASSIFICAR OS DADOS
+
+
+1 - Caracteríticas (elementos gerais do  ambiente do problema)
+
+2 - Pontos essenciais (filtrar o que realmente importa para o problema)
+
+3 - Gneralizar x detalhar (utilizar esses pontos para solucionar o problema de forma geral, tonando-o reutilizável para modelos distintos)
+
+
+
+
+
+
+PILAR DOS ALGORITMOS
+
+
+
+Step by step: Processo de resolução de problemas utilizando instruções. 
+
+
+O que precisa ser feito? -> Instruções
+
+Qual a ordem de execução -> Instruções
+
+
+O algoritmo deve ser entendido pelo humano e pela máquina.
+
+
+
+
+
+
+DESENVOLVIMENTO DO PROGRAMA
+
+
+1 - Análise (Etudo e definição dos dados de entrada e saída)
+
+2 - Algoritmo (Descreve o problema por meio de ferramentasm de acordo com a linguagem de programação escolhida
+
+3 - Codificação (Codificação do aloritmo determinado)
+
+
+
+
+
+
+
+COMO CONSTRUIR UM ALGORITMO
+
+
+1 - Compreensão do problema
+
+2 - Definição de dados de entrada
+
+3 - Definir o processamento de dados
+
+4 - Definir dados de saída
+
+5 - Utilizar um método de construção
+
+6 - Teste e diagnóstico
+
+
+
+
+
+CONSTRUÇÃO DE ALGORITMOS
+
+
+Narrativa: Utilização da linguagem natural (Diversas interpretações possíveis)
+
+Fluxograma: Utilização de símbolos pré-definidos (Requer onhecimento prévios da estrutura de símbolos)
+
+Pseudocódigo: Utilização de regras definidas para passos a serem seguidos. (Portugol)
+
+
+
+Narrativa: INÍCIO -> N1,2 -> M = N1*N2 -> M -> FIM
+
+
+
+
+
+
+
+
+
+
+ESTUDO DE CASO CONCEITUAL: PERDIDO.
+
+
+Como resolver o problema utilizando o pensamento computacional?
+
+
+##Para sobreviver na floresta
+
+
+Sobrevivência: Água/Comida/Abrigo (Decomposição do problema)
+
+
+Água: Chuva/Nascente
+
+Comida: Coletar/Caçar/Localização
+
+Abrigo:Localização/Proteção/Quente e seco
+
+
+Para fazer várias dessas tarefas, utilizaremos o Fogo, nesse caso encontramos um padrão.
+
+E para conseguir encontrar a localização, o Mapa se torna uma abstração para definir locais mais apropriados. 
+
+Utilizamos a decomposiçao, o reconhecimento de padrões e a abstração.
+
+
+Preparando a comida: 
+
+1 - Pegar o peixe
+2 - Colocar água na panela
+3 - Fever a água
+4 - Limpar o peixe
+5 - Fazer o cozido
+6-  Assar o filé
+
+
+(Step by step do algoritmo)
+
+
+Nesse caso foram utilizados todos os pilares de pensamento computacional. 
+
+
+
+ESTUDO DE CASO: ADIVINHE UM NÚMERO
+
+
+Ex: Adivinhe o número.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
